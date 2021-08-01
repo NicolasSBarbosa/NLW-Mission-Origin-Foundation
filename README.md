@@ -42,7 +42,7 @@ OriginSix é uma página institucional no formato One Page, responsiva, para usa
 
 ## 🔖 Layout
 
-Você pode visualizar o site através [desse link](#).
+Você pode visualizar o site através [desse link](https://nicolassbarbosa.github.io/NLW-Mission-Origin-Foundation/).
 
 ## 📝 Licença
 
